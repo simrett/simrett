@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭  Hi i'm Simret, Welcome to my GitHub page! Here, you'll find a collection of my projects, code snippets, and explorations in the world of programming,Showcasing my skills, creativity, and analytical mindset. Let's dive in and see what I have to offer!<br><br>
 🌱 I’m currently learning: Python, React<br><br>
-📫 How to get in touch with me: simrettig@gmail.com<br><br>
+📫 Get in touch with me at: simrettig@gmail.com<br><br>
 ⚡ Fun fact: The term 'debugging' originated when a real bug—a moth—caused a computer malfunction. <br>As an enthusiastic upcoming programmer, I'm here to squash bugs and bring joy to coding!
 
 
